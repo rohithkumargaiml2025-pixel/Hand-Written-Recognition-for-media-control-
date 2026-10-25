@@ -1,0 +1,6 @@
+{
+  "name": "DigitTempo - Handwritten Digit Recognition for Media Control",
+  "description": "Control your media player using real-time handwritten digit recognition. Draw digits 0-9 to control playback, volume, skipping, visualizer effects, and custom commands.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
